@@ -3,12 +3,12 @@
     <channel>
         <title>Mac Observer</title>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Sun, 13 Sep 2026 22:29:27 +0800</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>0.2.3</title>
+            <pubDate>Sun, 13 Sep 2026 23:14:05 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/cmingou/mac-observer-releases/releases/download/v2.1.1/MacObserver-2.1.1.dmg" length="1575375" type="application/octet-stream" sparkle:edSignature="ARlYlGOwdsiMpOr95gZdsND8UlVAObxjfpwqprncgXchLqObH0pFLxwpo1Tq9HlpJya1UnsoDQhCTZQN79gyCw=="/>
+            <enclosure url="https://github.com/cmingou/mac-observer-releases/releases/download/v0.2.3/MacObserver-0.2.3.dmg" length="1621498" type="application/octet-stream" sparkle:edSignature="jSyXSW2aaQrTd88GRN+in3MfE2QAv0yDihaX5uw7/189EuiV6D73TkXCuVuVh7YtmVp5q91H5rM0OsmEDrvGAQ=="/>
         </item>
     </channel>
 </rss>
